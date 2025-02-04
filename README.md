@@ -1,2 +1,2 @@
-# Scan_Vuln-rabilit-s
+# Scan_Vulnerabilites
 Scan_Vulnérabilités
